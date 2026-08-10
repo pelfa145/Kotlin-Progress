@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="907817e2-bc32-455a-aa4d-ea38efbed282" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script MainKts.main" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000008751295875" />
+      <entry key="S5" value="1.0037742350799705" />
+      <entry key="S10" value="1.0614348034909404" />
+      <entry key="S30" value="1.3945828068453792" />
+      <entry key="S60" value="1.6281582657622036" />
+      <entry key="M2" value="1.7925643606434771" />
+      <entry key="M5" value="1.9112002196951234" />
+      <entry key="M10" value="1.9545680801782153" />
+      <entry key="M15" value="1.9694779561326672" />
+      <entry key="M30" value="1.9846207168918735" />
+      <entry key="H1" value="1.9922805635967449" />
+      <entry key="H2" value="1.9961328041966817" />
+      <entry key="H4" value="1.9980645290744892" />
+      <entry key="D1" value="1.9996771610620976" />
+      <entry key="W1" value="1.9999538737693314" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0758110847491744E-8" />
+      <entry key="MS500" value="0.025488671666844053" />
+      <entry key="S2" value="0.39956504802973924" />
+      <entry key="S5" value="0.6961632820561185" />
+      <entry key="S10" value="0.8899952595758119" />
+      <entry key="S30" value="1.32692212517152" />
+      <entry key="S60" value="1.591372147293094" />
+      <entry key="M2" value="1.7731721502334503" />
+      <entry key="M5" value="1.9031597747132072" />
+      <entry key="M10" value="1.9504964097227648" />
+      <entry key="M15" value="1.9667517445917044" />
+      <entry key="M30" value="1.98325164373297" />
+      <entry key="H1" value="1.9915945190044784" />
+      <entry key="H2" value="1.9957894028581566" />
+      <entry key="H4" value="1.9978927333885668" />
+      <entry key="D1" value="1.9996485152292314" />
+      <entry key="W1" value="1.9999497811834894" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HgbIVFWPNAgGtGGuZ0yjTHszk4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jadon Paran/Documents/Programming/Kotlin/Foundations",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="907817e2-bc32-455a-aa4d-ea38efbed282" name="Changes" comment="" />
+      <created>1786292580027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786292580027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
