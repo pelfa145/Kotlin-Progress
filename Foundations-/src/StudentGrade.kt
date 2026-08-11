@@ -34,6 +34,7 @@ fun start() {
         }
         if (math !in 0..100|| science !in 0..100 || english !in 0..100){
             println("Grades must be between 0 and 100.")
+            return
         }
         break
     }
